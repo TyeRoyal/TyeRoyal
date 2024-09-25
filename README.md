@@ -2,7 +2,7 @@
 
 I'm a St. Lawrence University student in Canton, NY.
 
-I'm studying Mathematics and Statistics and also majoring in both.  
+I'm majoring in Mathematics and Computer Science with a minor in Statistcs.   
 
 <!--
 **tdroya21/tdroya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
